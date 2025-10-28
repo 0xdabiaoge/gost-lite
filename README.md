@@ -1,1 +1,1 @@
-# gost-lite
+# 自用Gost转发

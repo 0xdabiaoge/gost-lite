@@ -941,7 +941,7 @@ config_socks5_chain_tls() {
 # (v17.1) 配置 - TLS 隧道服务端 (SOCKS5 落地)
 config_tls_socks_listener() {
     local lport
-    read -p "请输入 TLS 监听端口 (例如：8.8.8.8:53): " lport
+    read -p "请输入 TLS 监听端口 : " lport
     
     if [ -z "$lport" ]; then
         print_error "端口不能为空。"

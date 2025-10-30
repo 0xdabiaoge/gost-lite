@@ -7,5 +7,5 @@
 ```
 国内VPS：
 ```
-(curl -LfsS https://ghfast.top/https://raw.githubusercontent.com/0xdabiaoge/gost-lite/main/gost.sh -o /usr/local/bin/gt || wget -q https://ghfast.top/https://raw.githubusercontent.com/0xdabiaoge/gost-lite/main/gost.sh -O /usr/local/bin/gt) && chmod +x /usr/local/bin/gt && gt
+(curl -LfsS https://gh-proxy.com/https://raw.githubusercontent.com/0xdabiaoge/gost-lite/main/gost.sh -o /usr/local/bin/gt || wget -q https://gh-proxy.com/https://raw.githubusercontent.com/0xdabiaoge/gost-lite/main/gost.sh -O /usr/local/bin/gt) && chmod +x /usr/local/bin/gt && gt
 ```

@@ -1207,7 +1207,7 @@ main_menu() {
             start_gost
             pause
             ;;
-        4.
+        4)
             stop_gost
             pause
             ;;
